@@ -1,2 +1,2 @@
-# linux-tool
+# linux-tools
 linux cmd tool code
