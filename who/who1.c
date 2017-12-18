@@ -19,7 +19,7 @@ int main() {
         exit(1);
     }
 
-    while(read(utmpfd, &current_record, reclen) == reclen) {
+    while (read(utmpfd, &current_record, reclen) == reclen) {
         show_info(&current_record);
     }
     close(utmpfd);
@@ -49,9 +49,9 @@ show_info(struct utmp *utbufp) {
 flow chart:
 
       open utmp   
-+---  read record ---+  
++-->  read record ---+  
 |                    |
 +---- show record    |
-      close utmp  ---+
+      close utmp  <--+
 
 */
