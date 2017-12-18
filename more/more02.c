@@ -25,6 +25,7 @@ int main(int ac, char* av[]) {
             }
         }
     }
+
     return 0;
 }
 
@@ -71,5 +72,6 @@ int see_more(FILE* cmd) { // NEW: accepts arg
             return 1;
         }
     }
+    
     return 0;
 }

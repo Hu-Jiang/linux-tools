@@ -13,3 +13,5 @@
 - how to remove prompt **more?** ?
 - how to show percent of input file ?
 - how to determine default show line number ?
+
+    [sourece code completely](http://bazaar.launchpad.net/~vcs-imports/util-linux-ng/trunk/view/head:/text-utils/more.c)

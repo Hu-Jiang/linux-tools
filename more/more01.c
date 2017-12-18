@@ -11,6 +11,7 @@ int see_more();
 
 int main(int ac, char* av[]) {
     FILE* fp;
+
     if (ac == 1) {
         do_more(stdin);
     } else {
@@ -23,6 +24,7 @@ int main(int ac, char* av[]) {
             }
         } 
     }
+
     return 0;
 }
 
@@ -64,6 +66,7 @@ int see_more() {
             return 1;
         }
     }
+    
     return 0;
 }
 
