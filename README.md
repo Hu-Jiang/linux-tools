@@ -1,2 +1,2 @@
 # linux-tools
-linux cmd tool code
+brief implement some linux cmd tool 
