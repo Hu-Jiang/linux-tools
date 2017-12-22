@@ -1,2 +1,2 @@
 # linux-tools
-brief implement some linux cmd tool 
+learning linux system by brief implement some linux cmd tool 
