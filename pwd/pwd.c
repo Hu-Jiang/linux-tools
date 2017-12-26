@@ -1,4 +1,4 @@
-/* spwd.c: a simplified version of pwd
+/* pwd.c: a simplified version of pwd
  *
  * starts in current directory and recursively
  * climbs up to root of filesystem, prints top part

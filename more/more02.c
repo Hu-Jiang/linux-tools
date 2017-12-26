@@ -72,6 +72,6 @@ int see_more(FILE* cmd) { // NEW: accepts arg
             return 1;
         }
     }
-    
+
     return 0;
 }
