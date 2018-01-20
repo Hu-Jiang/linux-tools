@@ -2,4 +2,5 @@
 !*.c
 !*.md
 !*.h
+!*.cgi
 !/sh-further/*/
